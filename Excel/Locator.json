@@ -1,0 +1,12 @@
+{
+  "Login_PAge": {
+  "Username": ["xpath","//input[@name='username']"],
+  "password": ["xpath","//input[@name='pwd']"],
+  "login_button": ["id","loginButton"]
+
+},
+  "Timetrack": {
+    "user_select": ["xpath","//img[@id='ext-gen7']"],
+    "new_tab": ["xpath","//a[.='New']"]
+  }
+}
